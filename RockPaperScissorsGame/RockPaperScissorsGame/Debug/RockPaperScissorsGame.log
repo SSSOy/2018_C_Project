@@ -1,0 +1,35 @@
+﻿  RPSfile.c
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(7): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(7): warning C4024: 'fwrite': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(8): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(8): warning C4024: 'fwrite': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(11): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(11): warning C4024: 'fread': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(12): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(12): warning C4024: 'fread': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(16): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(16): warning C4024: 'fwrite': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(17): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(17): warning C4024: 'fwrite': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(20): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(20): warning C4024: 'fread': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(21): warning C4047: '함수': 'FILE *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(21): warning C4024: 'fread': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(58): warning C4047: '함수': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(58): warning C4024: 'whoIsWinner': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsmain.c(58): warning C4020: 'whoIsWinner': 실제 매개 변수가 너무 많습니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsfile.c(13): warning C4013: 'AvailContinue'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsfile.c(25): warning C4013: 'LoadGameTimesFromeFile'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsfile.c(26): warning C4013: 'LoadGameFromFile'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+d:\방과후\겨울방학 c언어\rockpaperscissorsgame\rockpaperscissorsgame\rpsfile.c(41): warning C4013: 'StoreGameTimesFromeFile'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+RPSmain.obj : error LNK2005: _LoadGameMoneyFromFile이(가) RPSfile.obj에 이미 정의되어 있습니다.
+RPSmain.obj : error LNK2005: _LoadGameTimesFromFile이(가) RPSfile.obj에 이미 정의되어 있습니다.
+RPSmain.obj : error LNK2005: _StoreGameMoneyFromFile이(가) RPSfile.obj에 이미 정의되어 있습니다.
+RPSmain.obj : error LNK2005: _StoreGameTimesFromFile이(가) RPSfile.obj에 이미 정의되어 있습니다.
+RPSmain.obj : error LNK2005: _main이(가) RPSfile.obj에 이미 정의되어 있습니다.
+RPSmain.obj : error LNK2005: _count이(가) RPSfile.obj에 이미 정의되어 있습니다.
+RPSmain.obj : error LNK2005: _win이(가) RPSfile.obj에 이미 정의되어 있습니다.
+RPSfile.obj : error LNK2019: _LoadGameTimesFromeFile 외부 기호(참조 위치: _DoYouWantToContinue 함수)에서 확인하지 못했습니다.
+RPSfile.obj : error LNK2019: _LoadGameFromFile 외부 기호(참조 위치: _DoYouWantToContinue 함수)에서 확인하지 못했습니다.
+RPSfile.obj : error LNK2019: _StoreGameTimesFromeFile 외부 기호(참조 위치: _DoYouWantToStore 함수)에서 확인하지 못했습니다.
+D:\방과후\겨울방학 C언어\RockPaperScissorsGame\Debug\RockPaperScissorsGame.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.
