@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+	printf("%c%c ", 0xB9, 0xDA);
+	printf("%c%c ", 0xBC, 0xD2);
+	printf("%c%c \n", 0xBF, 0xB5);
+	printf("   %c%c\n", 0xA2, 0xBD);
+	printf("%c%c ", 0xBA, 0xAF);
+	printf("%c%c ", 0xB9, 0xE9);
+	printf("%c%c \n\n", 0xC7, 0xF6);
+}
